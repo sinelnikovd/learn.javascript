@@ -1,0 +1,1 @@
+alert("Привет, learn.javascript!");
